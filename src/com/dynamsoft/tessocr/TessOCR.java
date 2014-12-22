@@ -1,5 +1,7 @@
 package com.dynamsoft.tessocr;
 
+import java.io.File;
+
 import android.graphics.Bitmap;
 import android.os.Environment;
 
@@ -13,7 +15,9 @@ public class TessOCR {
 		mTess = new TessBaseAPI();
 		String datapath = Environment.getExternalStorageDirectory() + "/tesseract/";
 		String language = "eng";
-		
+		File dir = new File(datapath + "tessdata/");
+		if (!dir.exists()) 
+			dir.mkdirs();
 		mTess.init(datapath, language);
 	}
 	
