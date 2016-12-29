@@ -1,11 +1,9 @@
-Android Tesseract OCR
-=======================================================================
-
+# Android Tesseract OCR
 The sample shows how to implement a simple Android OCR application with Tesseract-OCR.
 
-Screenshots
+## Screenshots
 -----------
-![image](http://www.codepool.biz/wp-content/uploads/2014/12/ocr_img.png)
+![android ocr](http://www.codepool.biz/wp-content/uploads/2014/12/ocr_img.png)
 ![image](http://www.codepool.biz/wp-content/uploads/2014/12/do_ocr_select.png)
 
 Blog
