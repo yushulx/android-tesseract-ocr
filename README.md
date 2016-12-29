@@ -6,15 +6,12 @@ The sample shows how to implement a simple Android OCR application with Tesserac
 ![android ocr](http://www.codepool.biz/wp-content/uploads/2014/12/ocr_img.png)
 ![image](http://www.codepool.biz/wp-content/uploads/2014/12/do_ocr_select.png)
 
-Blog
-----
-[Making an Android OCR Application with Tesseract][3]
-
-References:
------------
+## References:
 * [tesseract-ocr][1]
 * [tesseract-android-tools][2]
 
+## Blog
+[Making an Android OCR Application with Tesseract][3]
 
 [1]:http://code.google.com/p/tesseract-ocr/
 [2]:https://code.google.com/p/tesseract-android-tools/
