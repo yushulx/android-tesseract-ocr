@@ -15,7 +15,7 @@ The sample shows how to implement a simple Android OCR application with Tesserac
 
 [1]:http://code.google.com/p/tesseract-ocr/
 [2]:https://code.google.com/p/tesseract-android-tools/
-[3]:http://www.codepool.biz/ocr/making-an-android-ocr-application-with-tesseract.html
+[3]:https://www.dynamsoft.com/codepool/making-an-android-ocr-application-with-tesseract.html
 
 
 
